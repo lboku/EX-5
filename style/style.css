@@ -13,7 +13,7 @@ line-height: 26px;
 text-align: center;
 }
 .second-title{
-font-family: 'Inter-semibold';
+    font-family: 'Inter-semibold';
 font-size: 54px;
 font-weight: 600;
 line-height: 62px;
@@ -58,7 +58,7 @@ height: 108px;
 gap: 8px;
 }
 .name{
-font-family: 'Inter-semibold';
+    font-family: 'Inter-semibold';
 font-size: 18px;
 font-weight: 600;
 line-height: 30px;
